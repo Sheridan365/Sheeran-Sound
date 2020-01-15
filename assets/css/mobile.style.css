@@ -53,3 +53,45 @@
         padding-top: 28vmin;
     }
 }
+
+@media only screen and (max-width: 414px) {
+    .services {
+        background: none;
+    }
+
+    .services-cover .content h2 {
+        padding-top: 1em;
+        height: 23vmin;
+        font-size: 2em;
+    }
+
+    .services-cover .content p {
+        font-size: 1em;
+    }
+
+    .boxes {
+        height: 170vmin;
+    }
+
+    .reviews {
+        background-position: center;
+        background-size: cover;
+        background-repeat: no-repeat;
+    }
+
+    .reviews .cards .card {
+        height: 85vmin;
+    }
+
+    .recent-work iframe {
+        width: initial;
+        margin-left: 0vmin;
+    }
+
+    .get-in-touch {
+        background-position: center;
+        background-size: cover;
+        background-repeat: no-repeat;
+        height: 180vmin;
+    }
+}
