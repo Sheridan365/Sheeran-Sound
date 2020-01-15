@@ -70,3 +70,32 @@ header .container .col-md-12 p {
     padding: 0.1em 0em;
     color: white;
 }
+
+/* About Us */
+.about {
+    padding: 20vmin 0;
+    padding-bottom: 30vmin;
+}
+
+.about .row .col-md-6 .about-us img {
+    opacity: 0.8;
+    width: 95%;
+    border-radius: 0.2em;
+    height: 500px;
+}
+
+.about .row .col-md-6:last-child {
+    position: relative;
+}
+
+.about .row .col-md-6 .panel {
+    position: absolute;
+    top: 7vmin;
+    left: -18vmin;
+    background: white;
+    border-radius: 3px;
+    text-align: left;
+    padding: 10vmin 10vmin 10vmin 10vmin;
+    box-shadow: 0px 25px 42px rgba(0, 0, 0, 0.2);
+    font-family: Helvetica, sans-serif;
+}
