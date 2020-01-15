@@ -17,6 +17,11 @@ header a {
     color: whitesmoke;
 }
 
+.navbar-toggler {
+    color: white;
+    background-color: black;
+}
+
 header {
     background: url(../img/bg-1.png);
 }
@@ -142,6 +147,15 @@ header .container .col-md-12 p {
     margin: 5rem;
     border-radius: .7em;
     box-shadow: 1px 2px 50px 0px rgba(75, 74, 74, 0.349);
+}
+
+
+/* Client Reviews */
+.reviews {
+    background: url(../img/photography.jpeg);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
 }
 
 .reviews h2 {

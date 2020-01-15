@@ -95,3 +95,23 @@
         height: 180vmin;
     }
 }
+
+@media only screen and (max-width: 1024px) {
+    header {
+        background-position: center;
+        background-size: cover;
+        background-repeat: no-repeat;
+    }
+
+    .get-in-touch {
+        background-position: center;
+        background-size: cover;
+        background-repeat: no-repeat;
+    }
+
+    .reviews {
+        background-position: center;
+        background-size: cover;
+        background-repeat: no-repeat;
+    }
+}
