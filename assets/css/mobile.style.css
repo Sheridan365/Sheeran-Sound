@@ -1,0 +1,55 @@
+@media only screen and (max-width: 768px) {
+    header .navbar-brand {
+        padding-left: 1em;
+    }
+
+    header {
+        background-position: center;
+        background-size: cover;
+        background-repeat: no-repeat;
+    }
+
+    .about .row .col-md-6 .panel {
+        position: initial;
+        width: initial;
+        height: initial;
+    }
+
+    .services {
+        background-position: center;
+        background-size: cover;
+    }
+
+    .reviews {
+        background-position: center;
+        background-size: cover;
+        background-repeat: no-repeat;
+    }
+
+    .reviews .cards .card {
+        height: 50vmin;
+    }
+
+    .recent-work iframe {
+        margin-left: 32vmin;
+    }
+
+    .get-in-touch {
+        background-position: center;
+        background-size: cover;
+        background-repeat: no-repeat;
+        height: 80vmin;
+    }
+
+    .newsletter form {
+        float: left;
+    }
+
+    footer {
+        padding: 7vmin;
+    }
+
+    .services-cover .content h2 {
+        padding-top: 28vmin;
+    }
+}
