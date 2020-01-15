@@ -171,3 +171,26 @@ header .container .col-md-12 p {
     height: 200px;
     padding-bottom: 3vmin;
 }
+
+/* Recent Work */
+.recent-work h2 {
+    text-align: center;
+    padding-top: 10vmin;
+    font-size: 6vmin;
+    padding-bottom: 0.1em;
+    font-family: 'Lobster';
+}
+
+.recent-work p {
+    text-align: center;
+    font-size: 2vmin;
+    padding-bottom: 10vmin;
+}
+
+.recent-work iframe {
+    height: 40vmin;
+    width: 30vmin;
+    margin: 3vmin;
+    margin-left: 25vmin;
+    box-shadow: 1px 2px 50px 0px rgba(75, 74, 74, 7);
+}
