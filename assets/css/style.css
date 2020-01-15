@@ -255,3 +255,29 @@ header .container .col-md-12 p {
     padding-right: 20px;
     color: black;
 }
+
+/* Footer */
+footer {
+    background: rgba(0, 0, 0, 0.815);
+    padding: 14vmin 18vmin;
+}
+
+footer input {
+    border: none !important;
+}
+
+footer input::placeholder {
+    color: #fff !important;
+}
+
+footer .contact i {
+    color: white;
+}
+
+footer .column i {
+    color: rgb(2, 124, 206);
+}
+
+footer .col-md-2 i {
+    padding: 0 0.5em;
+}
