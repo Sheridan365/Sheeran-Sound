@@ -4,3 +4,69 @@
 * {
     box-sizing: border-box;
 }
+
+/* Header & Navigation */
+header,
+section {
+    overflow-x: hidden;
+}
+
+header a {
+    font-family: Helvetica, sans-serif;
+    font-size: 1.1rem;
+    color: whitesmoke;
+}
+
+header {
+    background: url(../img/bg-1.png);
+}
+
+header .nav-item:last-child {
+    padding-right: 10.5em;
+}
+
+header .nav-item {
+    padding: 0.9em;
+}
+
+header .navbar-brand {
+    padding-left: 6rem;
+}
+
+header .navbar-brand:hover {
+    color: red;
+}
+
+header .nav-item .nav-link:hover {
+    color: red;
+}
+
+header .row .col-md-12 {
+    padding: 22vmin 1vmin;
+    padding-bottom: 35vmin;
+}
+
+header .row .col-md-5 img {
+    width: 840px;
+}
+
+header .container .col-md-12 h1 {
+    font-size: 7vmin;
+    font-weight: bold;
+    padding: 0.1em 0em;
+    color: white;
+}
+
+header .container .col-md-12 h6 {
+    font-size: 4vmin;
+    font-weight: bold;
+    padding: 0.1em 0em;
+    color: white;
+}
+
+header .container .col-md-12 p {
+    font-size: 2vmin;
+    font-weight: bold;
+    padding: 0.1em 0em;
+    color: white;
+}
