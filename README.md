@@ -8,7 +8,7 @@ This website is for a production company that works with clients from all around
 
  Before starting my project i used balsamiq Mockups to layout the basic structure of my website this was helpfull when it came to coding time.
 
- ![Balsamiq Mockup](img/shheransounds.jpg)
+ ![Balsamiq Mockup](../img/shheransounds.jpg)
 
 ##User Stories
 
