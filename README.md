@@ -6,33 +6,32 @@ This website is for a production company that works with clients from all around
  
  My goal for this design was to make information accessible with the click of a finger as well as trying to keep it clean but functionable.
 
- Before starting my project i used balsamiq Mockups to layout the basic structure of my website this was helpfull when it came to coding time.
+ Before starting my project i used balsamiq Mockups to layout the basic structure of my website this was helpfull when it came to coding time see mockup link below.
 
- ![Balsamiq Mockup](../img/shheransounds.jpg)
+![](/img/Sheeransounds.png)
 
-##User Stories
+## User Stories
 
 - As a user i want to be able to visit the site and have easy accsess to information.
 - As a user i want to be able to contact the company direct aswell as by a ppage contact form.
 - As a user i want to be able to go this site and find reviews from other clients.
--As a user of this site i would like to see a section of recently produced recordings.
-This section is also where you would share links to any wireframes, mockups, diagrams etc. that you created as part of the design process. These files should themselves either be included as a pdf file in the project itself (in an separate directory), or just hosted elsewhere online and can be in any format that is viewable inside the browser.
+- As a user of this site i would like to see a section of recently produced recordings.
 
 ## Features
 
-#About Us
+# About Us
 -In this section of the website you can find out how we started out and ended up been who we are today.
  
- #Services
+ # Services
  -In this section you will discover what we can offer our clients.
 
- #Reviews
+ # Reviews
  -In this section of the page you can see some of our many reviews of what our happy clients say.
 
- #Recent Work
+ # Recent Work
  -In this section of the page you'll be able to view some of our recently produced videos.
 
- #Contact
+ # Contact
  -In this section yo'll be able to send us a message or inquiry also below this in the footer you can find a direct Email address aswell as contact Number and social media links.
 
 ### Features left to implement
@@ -42,38 +41,38 @@ This section is also where you would share links to any wireframes, mockups, dia
 
 ## Technologies Used
 
--HTML & CSS - programming languages
--Bootstrap - Used for a responsive design for all people on different devices.
--Google Fonts - font-family: 'Roboto', sans-serif;
--GIT - Version Control
--GitHub - to host the repositories for this project and the live website preview
--Balsamiq 3 - I used this for my websites mockup.
+- HTML & CSS - programming languages
+- Bootstrap - Used for a responsive design for all people on different devices.
+- Google Fonts - font-family: 'Roboto', sans-serif;
+- GIT - Version Control
+- GitHub - to host the repositories for this project and the live website preview
+- Balsamiq 3 - I used this for my websites mockup.
 - [JQuery](https://jquery.com)
     - The project uses **JQuery** to simplify DOM manipulation.
 
 
 ## Testing
 
--Testing was initially carried out on a number of different devices
+- Testing was initially carried out on a number of different devices
 
--Devices - Iphone 6/7/8/X
--Devices - Samsung Galaxy J7 Prime - S9 - S10 - A70 - A40 - A8s - Tab A.
--testing was also carried out on Google's (Chrome Developer Tools) to make sure the website was responsive on different screen sizes 
--Testing was also carried out on Firefox - IE - Chrome
+- Devices - Iphone 6/7/8/X
+- Devices - Samsung Galaxy J7 Prime - S9 - S10 - A70 - A40 - A8s - Tab A.
+- Testing was also carried out on Google's (Chrome Developer Tools) to make sure the website was responsive on different screen sizes 
+- Testing was also carried out on Firefox - IE - Chrome
 
 All Testing was succesfull and website is fully responsive.
 
 ## Deployment
 
--This site was deployed on GitHub pages. It uses the master branch it updates each time i push new code to the repository.
--To do this i used Git Terminal on gitpod to push my code to Github.
+- This site was deployed on GitHub pages. It uses the master branch it updates each time i push new code to the repository.
+- To do this i used Git Terminal on gitpod to push my code to Github.
 
 -To do This i typed Git 
 add index.html
 git commit -m "Initial commit"
 git push
 
--Then from my Github Repository i navigated to settings where i scrolled down to the github section and selected the master branch option.
+- Then from my Github Repository i navigated to settings where i scrolled down to the github section and selected the master branch option.
 
 ### If you want to edit this site
 
