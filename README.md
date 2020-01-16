@@ -1,6 +1,9 @@
 # Sheeran Sounds
 
 This website is for a production company that works with clients from all around the world.
+
+## Demo 
+ A live demo of the website can be found at https://sheridan365.github.io/Sheeran-Sound/
  
 ## UX
  
