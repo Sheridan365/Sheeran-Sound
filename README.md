@@ -70,7 +70,7 @@ All Testing was succesfull and website is fully responsive.
 - This site was deployed on GitHub pages. It uses the master branch it updates each time i push new code to the repository.
 - To do this i used Git Terminal on gitpod to push my code to Github.
 
--To do This i typed Git 
+- To do This i typed Git 
 add index.html
 git commit -m "Initial commit"
 git push
