@@ -23,19 +23,19 @@ This website is for a production company that works with clients from all around
 ## Features
 
 # About Us
--In this section of the website you can find out how we started out and ended up been who we are today.
+- In this section of the website you can find out how we started out and ended up been who we are today.
  
  # Services
- -In this section you will discover what we can offer our clients.
+ - In this section you will discover what we can offer our clients.
 
  # Reviews
- -In this section of the page you can see some of our many reviews of what our happy clients say.
+ - In this section of the page you can see some of our many reviews of what our happy clients say.
 
  # Recent Work
- -In this section of the page you'll be able to view some of our recently produced videos.
+ - In this section of the page you'll be able to view some of our recently produced videos.
 
  # Contact
- -In this section yo'll be able to send us a message or inquiry also below this in the footer you can find a direct Email address aswell as contact Number and social media links.
+ - In this section yo'll be able to send us a message or inquiry also below this in the footer you can find a direct Email address aswell as contact Number and social media links.
 
 ### Features left to implement
 - Feature 1 - Bring a dedicated page with all of our work.
