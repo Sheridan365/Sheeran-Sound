@@ -20,21 +20,21 @@ This website is for a production company that works with clients from all around
 - As a user i want to be able to go this site and find reviews from other clients.
 - As a user of this site i would like to see a section of recently produced recordings.
 
-## Features
+# Features
 
-# About Us
+## About Us
 - In this section of the website you can find out how we started out and ended up been who we are today.
  
- # Services
+ ## Services
  - In this section you will discover what we can offer our clients.
 
- # Reviews
+ ## Reviews
  - In this section of the page you can see some of our many reviews of what our happy clients say.
 
- # Recent Work
+ ## Recent Work
  - In this section of the page you'll be able to view some of our recently produced videos.
 
- # Contact
+ ## Contact
  - In this section yo'll be able to send us a message or inquiry also below this in the footer you can find a direct Email address aswell as contact Number and social media links.
 
 ### Features left to implement
