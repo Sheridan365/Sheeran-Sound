@@ -50,9 +50,6 @@ This website is for a production company that works with clients from all around
 - GIT - Version Control
 - GitHub - to host the repositories for this project and the live website preview
 - Balsamiq 3 - I used this for my websites mockup.
-- [JQuery](https://jquery.com)
-    - The project uses **JQuery** to simplify DOM manipulation.
-
 
 ## Testing
 
@@ -64,6 +61,10 @@ This website is for a production company that works with clients from all around
 - Testing was also carried out on Firefox - IE - Chrome
 
 All Testing was succesfull and website is fully responsive.
+
+- I used W3C Markup Validation to validate html.
+- I used W3C CSS Validation to validate css.
+- I used Unicorn Revealer to help locate overflow issues.
 
 ## Deployment
 
